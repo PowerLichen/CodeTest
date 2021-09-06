@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#test file
+/CodeTest/main.cpp
+
 # User-specific files
 *.rsuser
 *.suo
