@@ -1,4 +1,4 @@
-// 2018 KAKAO BLIND
+// 2018 KAKAO BLIND(파싱)
 // 방금그곡
 
 #include <sstream>
