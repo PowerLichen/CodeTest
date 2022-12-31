@@ -1,3 +1,8 @@
+"""
+12979: 기지국 설치
+n 만큼의 일렬로 된 아파트가 있고,  stations 위치에 타워가 설립되어 있다.
+이 때, 타워가 w 만큼의 전파 범위를 가지고 있을 때 몇개를 더 세우면 아파트 전체를 커버할 수 있는가?
+"""
 def get_station_num(space, station_size):
     if space < 0:
         return 0
