@@ -1,3 +1,10 @@
+"""
+43993: 스킬트리
+풀이:
+선행스킬 정보를 딕셔너리로 저장하고,
+각 스킬트리에 대해 선행정보와 이미 배운 스킬인가를 체크. 
+"""
+
 def check_tree(stree, pre_skill):
     learn_set = set()
     for skill in stree:
